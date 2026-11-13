@@ -295,8 +295,8 @@ wireshark captures/03_Protocol_Filters.pcapng
 
 ## 📥 Downloads
 
-- 📊 [Download Presentation (PPTX)](docs/Wireshark-Packet-Sniffer-Network-Protocol-Analysis.pptx?raw=true)
-- 📄 [Download Project Report (PDF)](docs/Project_Report.pdf?raw=true)
+- 📊 [Download Presentation (PPTX)](./Wireshark-Packet-Sniffer-Network-Protocol-Analysis.pptx?raw=true)
+- 📄 [Download Project Report (PDF)](./Project_Report.pdf?raw=true)
 
 ## 🔐 Disclaimer
 
